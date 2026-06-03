@@ -1,5 +1,5 @@
 {
-  "contracts": [
+  "tests/contracts": [
     {
       "id": 1,
       "codes": "1001",
