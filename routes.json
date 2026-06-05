@@ -1,3 +1,4 @@
 {
-  "/abc/:id/abc": "/abc/id=:id/abc"
+  "/abc/:id/abc": "/abc/id=:id/abc",
+  "/customers/contracts": "/customers-contracts"
 }
